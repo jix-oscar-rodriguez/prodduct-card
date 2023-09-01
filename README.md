@@ -12,6 +12,8 @@ Today I come to bring you a challenge completed by me in this case: it is a prod
 Hoy vengo a traerles un desafío completado por mí en este caso: se trata de una ficha de producto (recuerden que estos desafíos los pueden encontrar en: https://www.frontendmentor.io/)
 
 
+
+
 As I always tell you: you can use it, modify it and profit from it. The only thing I ask is that you please give me credits for helping you
 
 Como siempre te digo: puedes usarlo, modificarlo y sacarle provecho. Lo único que te pido es que por favor me des créditos por ayudarte.
